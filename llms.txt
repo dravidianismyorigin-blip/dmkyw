@@ -1,0 +1,12 @@
+# DMK Youth Wing (திமுக இளைஞரணி)
+
+> Official community website of the DMK Youth Wing, Tamil Nadu. Join the movement, follow member activities, listen to the podcast and explore recommended reading.
+
+## Main sections
+- [Home](https://dmkyw.in/): Mission, voices, works on the ground and news
+- [Join the Youth Wing](https://dmkyw.in/#join): Membership form
+- [YW Feeds](https://dmkyw.in/#yw/feeds): Activities by members across Tamil Nadu
+- [Podcast](https://dmkyw.in/#yw/podcast): Episodes and speeches
+- [Bookshelf](https://dmkyw.in/#yw/books): Books that shaped the Dravidian movement
+- [Leaderboard](https://dmkyw.in/#yw/leaderboard): Most active members
+- [Ideas](https://dmkyw.in/#yw/ideas): Submit and vote on ideas
